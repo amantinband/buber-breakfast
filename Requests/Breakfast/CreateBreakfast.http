@@ -1,0 +1,22 @@
+POST http://localhost:5286/breakfasts
+Content-Type: application/json
+
+{
+    "name": "V",
+    "description": "",
+    "startDateTime": "2022-04-08T08:00:00",
+    "endDateTime": "2022-04-08T11:00:00",
+    "savory": [
+        "Oatmeal",
+        "Avocado Toast",
+        "Omelette",
+        "Salad"
+    ],
+    "Sweet": [
+        "Cookie"
+    ]
+}
+
+###
+
+GET https://localhost:7094/Breakfasts/e35daaba-5a9e-43a2-9305-3dead8296fe0
