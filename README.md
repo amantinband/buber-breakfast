@@ -6,7 +6,7 @@
 
 ---
 
-### This is the source code of the CRUD REST API from scratch using .NET 6 tutorial
+### This is the source code of the [CRUD REST API from scratch using .NET 6 tutorial](https://youtu.be/PmDJIooZjBE)
 
 </div>
 
